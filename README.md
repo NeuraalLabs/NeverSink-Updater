@@ -25,7 +25,7 @@ You can automate this script to run periodically (e.g., daily, weekly, or hourly
         
     -   In **Add arguments**, enter:
         
-        `-ExecutionPolicy Bypass -File "C:\Scripts\Update-PoE2Filter.ps1"` 
+        `-ExecutionPolicy Bypass -File "C:\Scripts\NeverSink-Updater.ps1"` 
         
         (Adjust the path if your script is elsewhere.)
 4.  **Complete the Wizard**  
