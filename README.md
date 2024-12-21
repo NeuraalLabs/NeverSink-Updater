@@ -1,4 +1,4 @@
-# neverSink-POE2-AutoUpdater
+# NeverSink-Updater
 
 This quick and dirty POSH script will automatically download **NeverSinks Litefilter.filter** from the [NeverSinkDev/NeverSink-PoE2litefilter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter) GitHub repository. If the file has changed, it automatically downloads the latest version to your local Path of Exile 2 folder.
 
